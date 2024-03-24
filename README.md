@@ -16,3 +16,4 @@ git clone https://github.com/TanmaySawankar390/Moodle-Auto-Login.git
 05. Start the Developer mode on and Load Unpack the Extension through the directory in to the Extension Section.
 06. Give permission to access the site and it is all set to use.
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
