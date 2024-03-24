@@ -18,4 +18,4 @@ git clone https://github.com/TanmaySawankar390/Moodle-Auto-Login.git
 
 
 
-<img align="left" alt="MOODLE" width="500" height ="200" src="moodle.png">  <img align="right" alt="MITS" width="200"  height ="200" src="logo.png"> 
+<img align="left" alt="MOODLE" width="500" height ="200" src="moodle.png">  <img align="center" alt="MITS" width="200"  height ="200" src="logo.png"> 
